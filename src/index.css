@@ -1,0 +1,451 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+#Titulo {
+  font-size: 10px;
+  background-color: #000000;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+}
+
+#logo {
+  margin-left: 10px; 
+}
+
+#inicioSesionBtn {
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 69.5%;
+}
+
+#inicioSesionBtn:hover {
+  background-color: #e7e7e7;
+}
+
+h2 {
+  display: inline;
+  margin: 5px;
+}
+
+#subTitulo{
+  background-color: #d9d9d9;
+  height: 50px;
+  line-height: 40px;
+
+}
+#divAuxiliar{
+  background-color: #f4f4f4;
+  height: 30px;
+}
+
+#internetLine {
+  font-size: 19px;
+  font-family: Arial, sans-serif;
+  padding-left: 25px;
+}
+#spaceLine{
+  font-size: 19px;
+  font-family: Arial, sans-serif;
+  color: #877f7f;
+}
+#Registro-btn {
+  font-weight: bold;
+  font-size: 19px;
+  font-family: Arial, sans-serif;
+  margin-left:71%;
+  background-color: transparent;
+  border-color: transparent;
+}
+#Lenguaje {
+  font-weight: bold;
+  font-size: 19px;
+  font-family: Arial, sans-serif;
+  margin-left: 15px;
+}
+#lenguajeIMG{
+margin-top: 2px;
+}
+#inicioPagina{
+  display: flex;
+  justify-content: space-between;
+  background-color: #e4efff;
+}
+#textoPiePagina, #imagenPiePagina {
+  width: 50%; 
+}
+#textoPiePagina{
+  padding-left: 130px;
+  padding-top: 70px;
+}
+#mundoAzul {
+  padding:70px;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+#eslogan{
+  font-weight: 10px;
+  color: #23214b;
+  font-size: 50px;
+  font-family: Arial, sans-serif;
+}
+#pieEslogan{
+  color: #23214b;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+#paquetes-btn{
+  margin-top: 20px;
+  width: 120px;
+  background-color: #5772ff;
+  color: white;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+  padding: 15px;
+  border: transparent;
+  border-radius: 7px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+#informacionServicios {
+  padding-top: 60px;
+  text-align: center;
+}
+#nuestrosServicios{
+  color: #ff9357;
+  font-size: 18px;
+}
+#proveedorServicios{
+  color: #23214b;
+  font-size: 31px;
+}
+
+#navegaVelocidad{
+  color: #23214b;
+  font-size: 16px;
+}
+
+#servicios {
+  padding-top: 20px;
+  color: #23214b;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 70px;
+}
+#internet, #smart, #TV, #enterteiment{
+  color: #23214b;
+  font-weight: bold;
+  text-align: center;
+  width: 200px;
+  align-items: center;
+}
+#internet-img,#TV-img,#enterteiment-img,#smart-img{
+  width: 130;
+  height: 130px;
+}
+#divMitad {
+  text-align: center;
+  background-color: #f4f4f4;
+  height: 40x;
+  padding: 50px;
+  color: #0130aa;
+  font-size: 18px;
+  font-weight: bold;
+}
+#netflix {
+  width: 1521px;
+  height: auto;
+}
+#patrocinadores {
+  color: #575757;
+  height: 200px;
+  padding-top: 140px;
+  font-size: 14px;
+  padding-bottom: 70px;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+#piePagina {
+  background-color: #19181f;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  display: inline;
+  margin: 5px;
+}
+
+#maps {
+  height: 160px;
+  padding-left: 60px;
+  padding-top: 30px;
+  width: 300px;
+  padding-right: 100px;
+}
+#oficinas {
+  width: 300px;
+  color: white;
+  font-size: 10px;
+  text-align: left;
+  padding-top: 30px;
+}
+#soluciones,#company {
+  width: 300px;
+  color: white;
+  font-size: 10px;
+  text-align: left;
+  padding-top: 30px;
+}
+
+
+#redesSociales {
+  padding-right: 100px;
+  padding-top: 5px;
+  width: 200px;
+  height: 200px;
+}
+
+h4 {
+  color: #575757;
+  width: 200px;
+}
+
+h3 {
+  padding: 5px;
+}
+
+#lineaPiePagina {
+  padding-right: 100px;
+  padding-bottom: 40px;
+  background-color: #19181f;
+  text-align: right;
+  color: white;
+}
+#marcaRegistrada {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+  background-color: #19181f;
+  height: 40px;
+}
+#AmbasColumnas{
+  display: flex;
+  justify-content:space-between;
+}
+#ColumnaPrincipal{
+  padding-left: 300px;
+  padding-top: 100px;
+  width: 50%;
+}
+
+#mujer {
+  margin-top: 50px;
+  width: 60%;
+  border-radius: 25px;
+}
+
+#email, #password {
+  width: 420px;
+  height: 30px;
+  border-radius: 3px;
+  border-color: #d9d9d9;
+}
+#tituloSesion {
+  font-size: 30px;
+}
+#inicioText, #passwordText  {
+  padding-top: 13px;
+  color: #9794aa;
+  font-size: 13px;
+}
+#entrarbtn{
+  background-color: #3548aa;
+  text-align: center;
+  border-color: transparent;
+  height: 47px;
+  color: white;
+  width: 420px;
+  font-size: 25px;
+  border-radius: 25px;
+}
+#continue {
+  margin-left: 162px;
+  font-size: 13px;
+  color: #9794aa;
+}
+
+#googlebtn, #facebookbtn {
+  font-weight: bold;
+  color: #19181f;
+  width: 420px;
+  height: 40px;
+  border-radius: 6px ;
+  border-color: #d9d9d9;
+  background-color: transparent;
+}
+
+#googleIcon, #facebookIcon {
+  height: 15px;
+  width: 15px;
+  padding-left: 10px;
+}
+
+#pregunta {
+  margin-left: 105px;
+  font-size: 13px;
+  color: #9794aa;
+}
+
+#registrarse {
+  font-weight: bold;
+  font-size: 13px;
+  color: #3548aa;
+  background-color: transparent;
+  border-color:transparent;
+
+}
+#registroColumnas {
+  width: 800px;
+  height: 500px;
+  display: flex;
+  justify-content:space-between;
+  border: 2px solid #877f7f;
+  text-align: center;
+  margin-left: 24%;
+  margin-top: 5%; 
+}
+
+#columnaRegistro1 {
+  padding-top: 65px;
+  width: 50%;
+}
+
+#columnaRegistro2{
+  width: 60%;
+  height: 500px;
+  width: 400px;
+}
+#box {
+  padding-left: 30%;
+  padding-top: 5%;
+  flex: auto;
+  justify-content: center;
+}
+#registrotitulo {
+  color: black;
+}
+
+#usuario, #passwordRegistro, #segundapassword {
+  height: 30px;
+  width: 250px;
+  border-radius: 5px;
+  border: 2px solid #877f7f;
+}
+#botonesRegistro{
+  flex: auto;
+  text-align: center;
+}
+#google, #meta, #apple {
+padding-top: 30pxpx;
+background-color: #f5f7fa;
+border-color: transparent;
+width: 70px;
+height: 60px;
+}
+
+#completarButon{
+  margin-top: 20px;
+  height: 40px;
+  width: 180px;
+  background-color: #3548aa;
+  color: white;
+  border-color: transparent;
+  border-radius: 50px;
+}
+
+#paquetesTitulo {
+  margin-left: 40%;
+  margin-top: 5%;
+  padding-top: 15px;
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  background-color: #eef4f4;
+  border-radius: 15px;
+  border-color: transparent;
+}
+#cohete {
+  margin-left: 60px;
+  width: 30px;
+  height: 30px;
+}
+
+#paquete1 {
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #597382;
+  width: 323px;
+  height: 800px;
+  border-radius: 15px;
+  border: 2px solid #e9e5dd ;
+  background-color: #e9e5dd;
+}
+#tituloPaquete1{
+  color: #597382;
+  border: 2px solid #a3dec9;
+  border-radius: 15px;
+  background-color: #a3dec9;
+  width: 323px;
+  height: max-content;
+}
+#contratar1{
+  font-weight: bold;
+  color: #597382;
+  background-color: #bfd8d5;
+  border-radius: 20px;
+  border: 2px solid #bfd8d5;
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  margin-bottom: 50px;
+}
+
+
+#modem {
+  width: 50px;
+  height: 50px;
+ 
+}
+
+#television, #sonido, #WiFi, #caution {
+  height: 30px;
+  width: 30px;   
+}
+
+#beneficios {
+      display: flex;
+      align-items: center;
+      justify-content: center; 
+      gap: 10px;   
+}
+#paquetes {
+  display: flex;
+  justify-content: center; 
+  
+}
