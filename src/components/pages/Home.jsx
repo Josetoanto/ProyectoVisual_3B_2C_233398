@@ -1,8 +1,7 @@
 import React from "react";
-import Header from "../plantilla/header";
-import Body from "../plantilla/body";
-import Footer from "../plantilla/footer";
-
+import Header from "../plantilla/Header";
+import Body from "../plantilla/Body";
+import Footer from "../plantilla/Footer";
 
 const Home = () => {
     return(

@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom"; 
-import logoInternet from '../assets/logoInternet.png';
+import logoInternet from '../../assets/logoInternet.png';
 
 const Titulo = () => {
 

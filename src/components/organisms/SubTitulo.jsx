@@ -1,5 +1,5 @@
 import React from "react";
-import lenguaje from '../assets/lenguaje.png'
+import lenguaje from '../../assets/lenguaje.png'
 
 const SubTitulo = () => {
     return (

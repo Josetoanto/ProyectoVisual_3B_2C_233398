@@ -1,5 +1,5 @@
 import React from "react";
-import mundoAzul from '../assets/mundoAzul.png'
+import mundoAzul from '../../assets/mundoAzul.png'
 
 const InicioPagina = () => {
     return (

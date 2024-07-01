@@ -1,8 +1,8 @@
 import React from "react";
-import internet from '../assets/internet.png'
-import smart from '../assets/smart.png'
-import TV from '../assets/TV.png'
-import enterteiment from '../assets/enterteiment.png'
+import internet from '../../assets/internet.png'
+import smart from '../../assets/smart.png'
+import TV from '../../assets/TV.png'
+import enterteiment from '../../assets/enterteiment.png'
 
 
 const Servicios = () => {

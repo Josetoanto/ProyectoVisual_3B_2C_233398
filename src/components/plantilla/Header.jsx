@@ -1,6 +1,6 @@
 import React from "react";
-import Titulo from "../components/Titulo";
-import SubTitulo from "../components/SubTitulo";
+import Titulo from "../organisms/Titulo";
+import SubTitulo from "../organisms/SubTitulo";
 
 
 const Header = () => {

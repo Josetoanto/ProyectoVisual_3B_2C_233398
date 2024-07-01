@@ -1,5 +1,5 @@
 import React from "react";
-import patrocinadores  from'../assets/patrocinadores.png'
+import patrocinadores  from'../../assets/patrocinadores.png'
 
 const Patrocinadores = () => {
     return(

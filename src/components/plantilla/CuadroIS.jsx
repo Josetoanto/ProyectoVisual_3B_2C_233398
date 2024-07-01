@@ -1,6 +1,6 @@
 import React from "react";
-import InformacionIS from "../components/InformacionIS";
-import ISM from "../components/ISM";
+import InformacionIS from "../organisms/InformacionIS";
+import ISM from "../organisms/ISM";
 
 const CuadroIS = () => {
     return (

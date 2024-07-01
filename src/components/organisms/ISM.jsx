@@ -1,5 +1,5 @@
 import React from "react";
-import mujer from '../assets/mujer.png'
+import mujer from '../../assets/mujer.png'
 
 const ISM = () => {
     return (

@@ -1,5 +1,5 @@
 import React from "react";
-import maps from '../assets/maps.png'
+import maps from '../../assets/maps.png'
 
 const Mapa = () => {
     return(

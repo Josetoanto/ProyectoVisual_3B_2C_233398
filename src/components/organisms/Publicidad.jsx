@@ -1,5 +1,5 @@
 import React from "react";
-import netflix from '../assets/netflix.png'
+import netflix from '../../assets/netflix.png'
 
 const Publicidad = () => {
     return(

@@ -1,6 +1,6 @@
 import React from "react";
-import google from '../assets/google.png'
-import facebook from '../assets/facebook.png'
+import google from '../../assets/google.png'
+import facebook from '../../assets/facebook.png'
 import { useNavigate } from "react-router-dom";
 
 

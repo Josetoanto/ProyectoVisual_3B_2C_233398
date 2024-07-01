@@ -1,5 +1,5 @@
 import React from "react";
-import redes from '../assets/redes.png'
+import redes from '../../assets/redes.png'
 
 const Redes = () =>{
     return (
